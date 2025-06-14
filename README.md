@@ -1,2 +1,2 @@
-# magic-sqaure-solver
-solv magic sqaures with any amount of grids
+# PAC MAN AI
+making an ai for classic pac man 
